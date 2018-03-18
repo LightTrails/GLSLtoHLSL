@@ -1,0 +1,12 @@
+C:\Users\Rasmus Færing Larsen\Documents\GitHub\ShaderConverter\Shaders\Converter.Test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Rasmus Færing Larsen\Documents\GitHub\ShaderConverter\Shaders\Converter.Test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Rasmus Færing Larsen\Documents\GitHub\ShaderConverter\Shaders\Converter.Test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Rasmus Færing Larsen\Documents\GitHub\ShaderConverter\Shaders\Converter.Test\bin\Debug\netcoreapp1.1\Converter.Test.deps.json
+C:\Users\Rasmus Færing Larsen\Documents\GitHub\ShaderConverter\Shaders\Converter.Test\bin\Debug\netcoreapp1.1\Converter.Test.runtimeconfig.json
+C:\Users\Rasmus Færing Larsen\Documents\GitHub\ShaderConverter\Shaders\Converter.Test\bin\Debug\netcoreapp1.1\Converter.Test.runtimeconfig.dev.json
+C:\Users\Rasmus Færing Larsen\Documents\GitHub\ShaderConverter\Shaders\Converter.Test\bin\Debug\netcoreapp1.1\Converter.Test.dll
+C:\Users\Rasmus Færing Larsen\Documents\GitHub\ShaderConverter\Shaders\Converter.Test\bin\Debug\netcoreapp1.1\Converter.Test.pdb
+C:\Users\Rasmus Færing Larsen\Documents\GitHub\ShaderConverter\Shaders\Converter.Test\obj\Debug\netcoreapp1.1\Converter.Test.csprojResolveAssemblyReference.cache
+C:\Users\Rasmus Færing Larsen\Documents\GitHub\ShaderConverter\Shaders\Converter.Test\obj\Debug\netcoreapp1.1\Converter.Test.AssemblyInfo.cs
+C:\Users\Rasmus Færing Larsen\Documents\GitHub\ShaderConverter\Shaders\Converter.Test\obj\Debug\netcoreapp1.1\Converter.Test.dll
+C:\Users\Rasmus Færing Larsen\Documents\GitHub\ShaderConverter\Shaders\Converter.Test\obj\Debug\netcoreapp1.1\Converter.Test.pdb
